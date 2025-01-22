@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center"> Ian Morris-Sibaja </h1>
 
-<!--
-**imsibaja/imsibaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Howdy, 🤠 I'm Ian! 
+🔭 I’m currently working on: [Assessing Range Shifts of Coastal Species to Inform Conservation in California’s Biogeographic Transition Zones](https://github.com/coastalconservation)
 
-Here are some ideas to get you started:
+📫 How to reach me: imsibaja@proton.me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 Personal website: [imsibaja.github.io](https://imsibaja.github.io/)
+
+### What I'm up to 
+
+As a current Master of Environmental Data Science (MEDS) student at the Bren School of Environmental Science & Management, I am honing my talents in analysis and data manipulation. I hope to utilize my analytical toolkit to develop data-driven solutions that measure and mediate human impacts on the natural environments of Southern California. Before the Bren School, I was a professional terrestrial ecologist, speniding seasons about the diverse ecosystems of Southern California. Now, I would like to transition to marine ecology, with my first project in this area above ^🔭. 
+
+### Education 
+
+- Master of Environmental Data Science - Bren School of Environmental Science & Management (2025)
+- B.S Biology - University of California, Los Angeles (2022)
