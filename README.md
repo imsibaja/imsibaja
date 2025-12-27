@@ -1,7 +1,7 @@
 <h1 align="center"> Ian Morris-Sibaja </h1>
 
 ### Howdy, 🤠 I'm Ian! 
-🔭 I’m currently working on: [Assessing Range Shifts of Coastal Species to Inform Conservation in California’s Biogeographic Transition Zones](https://github.com/coastalconservation)
+🔭 Recently Completed: [Assessing Range Shifts of Coastal Species to Inform Conservation in California’s Biogeographic Transition Zones](https://github.com/coastalconservation)
 
 📫 How to reach me: imsibaja@proton.me
 
